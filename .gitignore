@@ -1,0 +1,40 @@
+```
+# Directorios
+__pycache__/
+venv/
+env/
+
+# Archivos
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyo
+*.pyc
+*.pyd
+*.pyz
+*.pyw
+*.swp
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales de Python (por ejemplo, Virtualenv, Pipenv, etc.)
+/.venv
+/.env
+/.env.*
+
+# Archivo de registro de errores de Python
+*.log
+
+# Archivos de configuración generados por IDEs y editores de texto
+.idea/
+.vscode/
+*.sublime*
+*.swp
+*.swo
+
+# Dependencias instaladas por pip
+# Elimina las siguientes líneas si estás utilizando un administrador de paquetes diferente o especificas las dependencias en otro archivo
+requirements.txt
+```
